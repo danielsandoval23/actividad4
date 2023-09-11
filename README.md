@@ -1,2 +1,2 @@
-# actividad4
-Juan daniel Sandoval Lizarazo Cod.20231579041
+# Juan Daniel Sandoval Lizarazo
+Cod.20231579041
